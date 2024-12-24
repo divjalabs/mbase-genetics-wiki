@@ -11,7 +11,7 @@
 
 [6.-Exporting Genotypes](Exporting-genotypes) 
 
-[7.-Filters](Filters)
+[7.-Filters](Filters.md)
 
 [8.-User access control](Genetic-samples-user-access-control)
 
@@ -19,4 +19,4 @@
 
 [B.-Sample metadata attributes](Sample-metadata-attributes)
 
-[*Example data generator*](Example-data-generator)
+[*Example data generator*](Example-data-generator.md)
