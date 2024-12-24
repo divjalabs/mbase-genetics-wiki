@@ -1,5 +1,5 @@
 ##### Table of Contents  
-[1.-Getting Started](Getting-Started-With-Mbase)
+[1.-Getting Started](Getting-Started-With-Mbase.md)
 
 [2.-Importing Sample Metadata](Importing-sample-metadata)
 
