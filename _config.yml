@@ -1,5 +1,3 @@
 # _config.yml
-title: MBase genetics user instructions
-description: User instructions for onlide database
-theme: jekyll-theme-primer
-markdown: kramdown
+theme: theme: jekyll-theme-minimal
+
